@@ -1,6 +1,6 @@
 ### Hi, It's Sanjay here 👋
 
-I'm a Computer Science & Engineering student from India, a full stack web developer along with having knowledge of programming languages like C, C++, etc.
+I'm a Software Developer from India, a full stack web developer along with having knowledge of programming languages like Python, GoLang, C++, etc.
 
 - 🔭 I’m currently working on projects in Web Development.
 - 🌱 I’m currently learning various frameworks.
