@@ -4,7 +4,7 @@ I'm a Software Developer from India, a full stack web developer along with havin
 
 - 🔭 I’m currently working on projects in Web Development.
 - 🌱 I’m currently learning various frameworks.
-- 📫 How to reach me: Drop me a mail on sanjayhjp121@gmail.com
+<!-- - 📫 How to reach me: Drop me a mail on sanjayhjp121@gmail.com -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,7 @@ I'm a Software Developer from India, a full stack web developer along with havin
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjayhjp121&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="sanjayhjp121"/></p> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanjayhjp121&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanjayhjp121&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
 [![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayhjp121&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
